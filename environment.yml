@@ -2,4 +2,13 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - mlxtend
+  - python=3.11
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
